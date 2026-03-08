@@ -1,25 +1,24 @@
-# Hi 👋 I'm Sudesh Sharma
+Hi there 👋,
+I'm Sudesh Sharma
 
-💻 Backend Developer | Python | Django
+Python-Django Dev | Backend & Frontend Explorer
 
-I enjoy building web applications and learning new technologies. 
-Currently focused on backend development and scalable systems.
+🚀 I build scalable web apps with Django, Flask, and React.js
+💻 Love crafting REST APIs, responsive UIs, and clean code
+🌱 Always learning, always improving
 
----
+## Skills
 
-## 🚀 Tech Stack
+Python | Django | Flask | React.js | HTML | Tailwind | Bootstrap | SQLite | Git
 
-Python  
-Django  
-Flask  
-HTML  
-CSS  
-JavaScript  
-Git  
+## What I’m Up To
 
----
+Exploring modern web development
 
-## 📫 Contact Me
+Optimizing backend performance
 
-LinkedIn: https://linkedin.com/in/sudesh-sharma  
-Email: sudacesrma2058@gmail.com
+Experimenting with frontend design & UX
+
+Learning new tools & frameworks every day
+
+✨ Open to opportunities, collaborations, and learning new things!
